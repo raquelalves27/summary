@@ -349,3 +349,14 @@ Cada propriedade é um ParameterBag instância (ou uma subclasse de), que é uma
 `remove()` remove os parâmetros setados 
 
 ---
+
+# Criando um DB com Entity e Relations
+Criando um DB com o symfony é um passo bem menos complicado dos ja vi por ai, Com o symfony usamos o **[Doutrina](https://symfony.com/doc/current/doctrine.html#installing-doctrine).**
+
+### Instalanddo o Doctrine
+
+dentro da pasta do seu arquivo execute no terminal:
+
+```
+
+```
