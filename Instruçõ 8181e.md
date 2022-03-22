@@ -358,5 +358,33 @@ Criando um DB com o symfony é um passo bem menos complicado dos ja vi por ai, C
 dentro da pasta do seu arquivo execute no terminal:
 
 ```
-
+composer require symfony/orm-pack
 ```
+```
+composer require --dev symfony/maker-bundle
+```
+Otimo Agora você ja tem o doctrine na sua pasta
+---
+##Configurando para a criação do DB
+
+As informações de conexão do banco de dados são armazenadas como uma variável de ambiente chamada `DATABASE_URL`.
+
+Você faz essa configuração dentro do seu arquivo .ENV
+ :bangbang: No meu caso como estou atualmente trabalhando com o SQL então so vou configurar meu `.ENV`.
+ 
+ ```
+# to use sqlite:
+# DATABASE_URL="sqlite:///%kernel.project_dir%/var/app.db"
+ ```
+ Agora que seus parâmetros de conexão estão configurados, o Doctrine pode criar o db_name banco de dados para você: 
+ ```
+ php bin/console doctrine:database:create
+ ```
+ ---
+ Para ver outros comandos que o Doctine pode fazer é so rodar no terminal :
+ ```
+ php bin/console list doctrine
+ ```
+ ##Criando uma Entity
+ 
+ 
