@@ -15,3 +15,7 @@ I'm writing here to help programmers who think they're lost but but believe me y
 [Testes Automatizados ](https://github.com/raquelalves27/summary/blob/main/Testes%20Aut%20ae908.md)
 
 [Modelagem de BD](https://github.com/raquelalves27/summary/blob/main/Modelagem%20%208464a.md)
+
+[Programação Estruturada](https://github.com/raquelalves27/summary/blob/main/Testes%20Aut%20ae908.md)
+
+[Docker](https://github.com/raquelalves27/summary/blob/main/docker.md)
