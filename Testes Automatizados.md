@@ -89,7 +89,7 @@ Compra de um produto com frete grátis em região Sul do Brasil.
 
 **Dado** que eu sou um cliente  
 
-**Quando** eu comprar um produto de qualquer categoria  
+** Quando ** eu comprar um produto de qualquer categoria  
 
 **E** o valor total da compra for igual ou maior a R$ 100  
 
