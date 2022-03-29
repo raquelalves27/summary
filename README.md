@@ -9,7 +9,7 @@ I'm writing here to help programmers who think they're lost but but believe me y
 
 #Shortcut
 
-[POO](https://github.com/raquelalves27/summary/blob/main/POO%20259eb.md)
+[POO](https://github.com/raquelalves27/summary/blob/main/POO.md)
 
 [PHP UNIT](https://github.com/raquelalves27/summary/blob/main/PHP%20UNIT%208525a.md)
 
